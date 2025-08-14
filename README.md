@@ -4,11 +4,11 @@ A modern, responsive Next.js frontend application for cryptocurrency transaction
 
 ## Contributors
 
--Adarsh Singh
--Anshul Ojha
--Aman Gangwar
--Kathrina Elangbam
--Jeston Singh
+- **Adarsh Singh**
+- **Anshul Ojha**
+- **Aman Gangwar**
+- **Kathrina Elangbam**
+- **Jeston Singh**
 
 ## 🚀 Features
 

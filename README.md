@@ -1,4 +1,4 @@
-# CryptoVigil Frontend
+# CryptoVigil
 
 A modern, responsive Next.js frontend application for cryptocurrency transaction monitoring, wallet management, and law enforcement tracking tools.
 
